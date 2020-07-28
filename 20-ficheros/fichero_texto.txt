@@ -1,0 +1,4 @@
+hola soy un archivo de texto 22
+como estas new shop
+in my house 
+soy un texto puesto desde PHPsoy un texto puesto desde PHPsoy un texto puesto desde PHP
